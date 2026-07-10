@@ -1,184 +1,302 @@
-# 👋 Hey there! I'm Smartdon
+<div align="center">
 
-**Full-Stack Developer | AI Enthusiast | Problem Solver**
+# 🤖 Abdul Rahman Hammed (Smartdon)
 
-I build scalable web applications, AI-powered solutions, and innovative projects that solve real-world problems. With expertise in modern web technologies and backend systems, I'm passionate about creating seamless user experiences and robust applications.
+### Mechatronics Engineer in Training | Robotics & AI Builder | Founder @ SRASS
 
----
+Building intelligent systems at the intersection of **Robotics, Artificial Intelligence, Automation, and Software Engineering**.
 
-## 🛠️ **Tech Stack & Skills**
+![Profile Views](https://komarev.com/ghpvc/?username=smartdon1212&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/smartdon1212?label=Followers&style=social)
 
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### **Backend & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### **Embedded Systems & Specialized**
-![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-### **Other Skills**
-- 🤖 AI Integration & Automation
-- 📊 Data Visualization
-- 🌐 Responsive Web Design
-- 🏢 School Management Systems
-- 🛒 E-Commerce Platforms
-- ♿ Assistive Technology Solutions
+</div>
 
 ---
 
-## 📌 **Featured Projects**
+## 🚀 About Me
 
-### 🎯 **Quantum X - School Management System**
-A next-generation platform for managing exams, results, and academic administration.
-- **Tech:** TypeScript, React, Modern Web Stack
-- **[View Project →](https://github.com/smartdon1212/quantum-x-landing-page)**
+I am a **Mechatronics Engineering student at Bayero University Kano (BUK)** and the founder of **Smartdon Robotics, Automation and Software Solutions (SRASS)**.
 
-### 🤖 **Swarm - AI Operation Board**
-An intelligent operation and management dashboard powered by AI.
-- **Tech:** TypeScript, Real-time Processing
-- **[View Project →](https://github.com/smartdon1212/Swarm)**
+My passion lies in developing intelligent technologies that combine software, robotics, embedded systems, and artificial intelligence to solve real-world problems.
 
-### 📡 **Beacon - AI WhatsApp Business Platform**
-AI-powered customer management system that integrates with WhatsApp.
-- **Tech:** JavaScript, AI Integration
-- **[View Project →](https://github.com/smartdon1212/Beacon)**
+I enjoy building projects that bridge the gap between engineering theory and practical innovation, with a strong interest in:
 
-### 📊 **PlotAI - Data Visualization Tool**
-Convert raw data into interactive, beautiful graphs instantly.
-- **Tech:** JavaScript, Data Processing
-- **[View Project →](https://github.com/smartdon1212/Plot-AI)**
-
-### 👁️ **Nlens - Assistive Vision System**
-Innovative ultrasonic-based assistive technology for the visually impaired.
-- **Tech:** HTML, IoT, Assistive Tech
-- **[View Project →](https://github.com/smartdon1212/Nlens-Assistive-Vision-System)**
-
-### 🎓 **Educational Platforms**
-- **Ar-Rayyan Institute** - Qur'an Memorization Platform
-- **SRASS Coding Classes** - Online Coding Tutorials
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
+- ⚙️ Industrial Automation
+- 🏭 Industry 4.0
+- 🔌 Embedded Systems
+- 🌐 Full-Stack Development
+- 📊 Data Analytics & Visualization
+- 🚀 Engineering Innovation
 
 ---
 
-## 📊 **Project Statistics**
+## 🏆 Highlights
 
-| Category | Count | Technologies |
-|----------|-------|--------------|
-| Full-Stack Applications | 5 | TypeScript, JavaScript, Node.js |
-| Educational Platforms | 2 | HTML, CSS, Frontend |
-| Business & E-Commerce | 3 | HTML, CSS, JavaScript |
-| AI & Modern Solutions | 3 | TypeScript, JavaScript, Python |
-| Portfolio Projects | 2 | HTML, CSS |
-
----
-
-## 🚀 **What I'm Currently Working On**
-
-- 🔨 Building scalable backend systems with Django and Flask
-- 🤖 Developing AI-powered business solutions
-- 📱 Creating responsive, accessible web applications
-- 🧬 Exploring IoT and embedded systems with MicroPython
-- 📊 Advanced data analysis and visualization projects
+- 🎓 Mechatronics Engineering Student at Bayero University Kano (BUK)
+- 🏢 Founder of Smartdon Robotics, Automation and Software Solutions (SRASS)
+- 🤖 Robotics, AI, and Automation Enthusiast
+- 📊 Developer of a Predictive Maintenance System for Industrial Robots
+- 🌍 Building multilingual AI communication platforms
+- 👓 Developing assistive technologies for accessibility
+- 🚀 Passionate about creating impactful engineering solutions
 
 ---
 
-## 💡 **Core Competencies**
+## 🎯 Current Focus
 
-✅ **Web Development** - Full-stack applications from frontend to backend  
-✅ **API Development** - RESTful APIs and integrations  
-✅ **Database Design** - Efficient data modeling and optimization  
-✅ **AI Integration** - Embedding AI capabilities into business solutions  
-✅ **Responsive Design** - Mobile-first, accessible web interfaces  
-✅ **System Architecture** - Scalable and maintainable solutions  
-✅ **Embedded Systems** - MicroPython for IoT and hardware projects  
+Currently exploring and building:
 
----
-
-## 📈 **Repository Breakdown**
-
-### **Full-Stack & SaaS**
-- Quantum X (School Management)
-- Swarm (AI Operation Board)
-- Beacon (AI WhatsApp Business)
-- PlotAI (Data Visualization)
-
-### **Education & Services**
-- Ar-Rayyan Institute (Qur'an Learning)
-- SRASS Coding Classes (Tutorials)
-
-### **Business & E-Commerce**
-- Hartech Enterprise
-- SRASS Business Website
-- Hartech Global Enterprises
-
-### **Innovation & Assistive Tech**
-- Nlens (Vision System for Visually Impaired)
-- SRASSFLIX (Entertainment Platform)
-
-### **Portfolio**
-- [Main Portfolio](https://github.com/smartdon1212/Portfolio)
-- [Portfolio v1](https://github.com/smartdon1212/smartdon_1portfolio)
+- AI-powered applications
+- Robotics systems
+- Predictive Maintenance Solutions
+- Educational Technology Platforms
+- Industry 4.0 Systems
+- Embedded Systems Development
+- Intelligent Automation Workflows
+- Smart Manufacturing Concepts
 
 ---
 
-## 🎯 **Development Expertise by Domain**
-
-| Domain | Proficiency | Key Technologies |
-|--------|-------------|------------------|
-| Web Development | ⭐⭐⭐⭐⭐ | HTML, CSS, JavaScript, TypeScript |
-| Backend Development | ⭐⭐⭐⭐ | Python, Django, Flask, Node.js |
-| Frontend Development | ⭐⭐⭐⭐⭐ | TypeScript, React-based frameworks |
-| AI Integration | ⭐⭐⭐⭐ | AI APIs, Automation, Data Processing |
-| Embedded Systems | ⭐⭐⭐⭐ | MicroPython, IoT, Hardware |
-| Data Analysis | ⭐⭐⭐⭐ | MATLAB, Python, Data Visualization |
-| Database Design | ⭐⭐⭐⭐ | SQL, Data Modeling, Optimization |
+# 🚀 Featured Projects
 
 ---
 
-## 🤝 **Let's Connect!**
+## 🌍 Beacon
 
-I'm always interested in collaborating on innovative projects, especially those involving:
-- 🤖 AI & Automation
-- 🌐 Web Applications
-- 🏫 Educational Technology
-- ♿ Assistive & Accessibility Solutions
-- 📊 Data-Driven Projects
+### Purpose
+Beacon is an AI-powered multilingual customer engagement platform designed to automate communication, improve customer support, and help businesses interact effectively across multiple languages.
 
-📱 **Reach me at:** 08123488059  
-📧 **Or feel free to open an issue or discussion on any of my repositories!**
+### Technologies
+`TypeScript` `Node.js` `PostgreSQL` `AI APIs`
+
+### Key Features
+- Multilingual communication
+- AI-powered conversations
+- Workflow automation
+- Customer engagement management
+- Business communication tools
+
+### Future Improvements
+- Voice AI integration
+- CRM connectivity
+- Advanced analytics dashboard
+- Multi-platform communication support
+
+---
+
+## 🧠 Swarm
+
+### Purpose
+Swarm is a multi-agent AI collaboration system that enables specialized AI agents to work together, reason, and execute complex workflows.
+
+### Technologies
+`Python` `AI Models`
+
+### Key Features
+- Agent collaboration
+- Task delegation
+- Workflow orchestration
+- Reasoning systems
+- Modular architecture
+
+### Future Improvements
+- Autonomous agents
+- Shared memory systems
+- Dynamic agent creation
+- Agent-to-agent communication
 
 ---
 
-## ⚡ **Fun Facts**
+## 📈 PlotAI
 
-- 🎮 Passionate about problem-solving through code
-- 🌍 Building solutions that make a real-world impact
-- 🚀 Always learning and exploring new technologies
-- ♿ Committed to developing inclusive and accessible software
-- 🎯 Driven by innovation and continuous improvement
+### Purpose
+PlotAI is a mathematical graph plotting and visualization platform that simplifies graph generation and engineering data visualization.
+
+### Technologies
+`Python` `NumPy` `Matplotlib`
+
+### Key Features
+- Cartesian plotting
+- Histograms
+- Bar charts
+- Stem plots
+- Engineering visualization
+
+### Future Improvements
+- Web dashboard
+- Statistical analysis
+- Interactive visualization
+- AI-assisted graph interpretation
 
 ---
 
-## 📊 **GitHub Overview**
+## 👓 Nlens (Neuro Lens)
 
-- **16 Active Repositories** covering diverse domains
-- **Full-Stack Developer** with expertise in modern web technologies
-- **AI & Automation Enthusiast** integrating cutting-edge solutions
-- **Open to Collaboration** on innovative and impactful projects
+### Purpose
+Nlens is an assistive technology project designed to improve mobility and environmental awareness for visually impaired individuals.
+
+### Technologies
+`ESP32` `MicroPython` `Ultrasonic Sensors` `Wokwi`
+
+### Key Features
+- Obstacle detection
+- Distance monitoring
+- Environmental awareness
+- Sensor-based feedback
+
+### Future Improvements
+- Computer vision integration
+- Object recognition
+- Voice assistant
+- AI-powered navigation
+- Text reading capability
 
 ---
+
+## 🤖 Predictive Maintenance and Health Monitoring System for Industrial Robots
+
+### Purpose
+A MATLAB-based predictive maintenance system developed to monitor the health of industrial robots and identify maintenance requirements before failures occur.
+
+The project demonstrates predictive maintenance concepts commonly used in **Smart Manufacturing** and **Industry 4.0** environments.
+
+### Technologies
+`MATLAB` `Matrix Operations` `Data Visualization` `File Handling`
+
+### Key Features
+- Robot health monitoring
+- Health score calculation
+- Maintenance recommendations
+- Dashboard visualization
+- Automated report generation
+- Condition-based monitoring
+
+### Health Formula
+
+```text
+Health Score =
+0.4(Battery)
++ 0.4(Efficiency)
++ 0.2(100 - Temperature)
+```
+
+### Future Improvements
+- ESP32 sensor integration
+- Real-time monitoring
+- Industrial IoT connectivity
+- Machine learning prediction
+- Cloud dashboard
+- PLC integration
+
+---
+
+# 🛠 Technical Skills
+
+## **Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+---
+
+## **Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+---
+
+## **Backend Development**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+---
+
+## **Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+## **Robotics & Embedded Systems**
+
+`ESP32` • `Arduino` • `MicroPython` • `Wokwi` • `Tinkercad`
+
+---
+
+## **Data & Visualization**
+
+`NumPy` • `Pandas` • `Matplotlib` • `MATLAB`
+
+---
+
+## **Tools & Documentation**
+
+`Git` • `GitHub` • `Markdown` • `VS Code`
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-### "Building Tomorrow's Solutions Today" 🚀
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smartdon1212&show_icons=true&theme=tokyonight"/>
 
-*Thanks for visiting my profile! Feel free to explore my projects and reach out for collaborations.*
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartdon1212&layout=compact&theme=tokyonight"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smartdon1212&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/smartdon1212
+- LinkedIn: [Add LinkedIn URL]
+- Email: [Add Professional Email]
+
+---
+
+# 🌟 Future Goals
+
+My goal is to build intelligent systems that combine:
+
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
+- ⚙️ Automation
+- 🔌 Embedded Systems
+- 🌐 Software Engineering
+- 🏭 Industry 4.0 Technologies
+
+I aspire to create technologies that solve meaningful challenges in:
+
+- Education
+- Manufacturing
+- Accessibility
+- Smart Automation
+- Human-Machine Interaction
+
+Through continuous learning and innovation, I aim to contribute to the future of intelligent engineering systems and technology-driven solutions.
+
+---
+
+> **"Turning engineering ideas into intelligent systems."**
+
+⭐ Feel free to explore my repositories and connect with me.
